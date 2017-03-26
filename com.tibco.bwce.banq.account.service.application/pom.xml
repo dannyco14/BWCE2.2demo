@@ -89,6 +89,10 @@
               </build>
               <run>
                 <namingStrategy>alias</namingStrategy>
+                <ports>
+                  <port>${bwdocker.port.p0}</port>
+                  <port>${bwdocker.port.p1}</port>
+                </ports>
               </run>
             </image>
           </images>
