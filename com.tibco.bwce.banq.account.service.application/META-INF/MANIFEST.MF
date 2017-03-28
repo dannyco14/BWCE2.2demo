@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Com Tibco Bwce Banq Account Service Application
-Bundle-SymbolicName: com.tibco.bwce.banq.account.service.application
+Bundle-Name: dannyco_demo Bwce Banq Account Service Application
+Bundle-SymbolicName: bwce.banq.account.service.application
 Bundle-Version: 1.0.0.qualifier
-Bundle-Vendor: TIBCO Software Inc.
 TIBCO-BWCE-Edition-Target: docker
 TIBCO-BW-Edition: bwcf
 TIBCO-BW-ConfigProfile: META-INF/default.substvar
